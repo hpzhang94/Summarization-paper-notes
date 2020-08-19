@@ -1,0 +1,21 @@
+1. Exploring Domain Shift in Extractive Text Summarization:
+  -first work that introduces domain shift to text summarization, treat news source as domain in MULTI-SUM dataset. 
+  -Four strategies tried: joint training, pre-training, meta-learning, domain-aware model
+  -very detailed and abundant experiments and analysis
+  
+  
+2. Recurrent Neural Network for Text Classification with Multi-Task Learning
+   -Early paper on RNN multi-task learning
+   -3 models: Uniform-layer, Coupled-layer, Shared-layer models
+   
+3. Neural Summarization by Extracting Sentences and Words
+   -first data-driven encoder-decoder structure
+    
+    
+4. Searching for Effective Neural Extractive Summarization: What Works and What’s Next
+    -Architecturally speaking, models with autoregressive decoder are prone to achieving better performance
+    -The success of extractive summarization system on the CNN/DailyMail corpus heavily relies on the ability to learn positional information of the sentence.
+    -Unsupervised transferable knowledge performs better
+    -Sentence encoder doensn't matter too much
+    -However, when we feed the entire article to BERT to obtain token representations and get the sentence representation through mean pooling, model performance soared to 42.3 R-1 score.
+    -https://github.com/maszhongming/Effective_Extractive_Summarization
