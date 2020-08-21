@@ -19,3 +19,23 @@
     -Sentence encoder doensn't matter too much
     -However, when we feed the entire article to BERT to obtain token representations and get the sentence representation through mean pooling, model performance soared to 42.3 R-1 score.
     -https://github.com/maszhongming/Effective_Extractive_Summarization
+
+5. SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents
+    -sequence label probelm formulation
+    -content, salience, novelty, abs/rel position to classify
+    -first to convert the abstractive summaries to extractive labels.
+
+6. From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information
+    -(1) Stream document; (2) Timeline document; (3) Extreme long document; (4) Dialog; (5) Query-based document; (6) Incorporating reader comment; (7) Template    based; (8)Multi-media;
+    -Extreme Long Document Summarization arix and pubmed SOTA： Wen Xiao and Giuseppe Carenini. Extractive summarization of long documents by combining global and local context. In EMNLP, 2019.
+    
+7. Improved Code Summarization via a Graph Neural Network
+    -can borrow the part of how to choose GNN, 
+    
+8.  A Comprehensive Survey on Graph Neural Networks
+    -GNN survey, can be used to choose GNN and readout function
+    
+9. ROUGE: A Package for Automatic Evaluation of Summaries
+    -ROUGE score paper and package
+    -current research mostly use ROUGE 1/2/L F1 as evaluation
+    
