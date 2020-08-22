@@ -39,3 +39,13 @@
     -ROUGE score paper and package
     -current research mostly use ROUGE 1/2/L F1 as evaluation
     
+*10. Revisiting the Centroid-based Method: A Strong Baseline for Multi-Document Summarization
+    -centroid of all sentence vectors, then use similarity
+    -similar to semantic matching
+    -maybe think a way to combine with centrality unsupervised method
+    
+ *11. Unsupervised Aspect-Based Multi-Document Abstractive Summarization
+     -cluster review senteces into aspect and then aggregate each cluster 
+     -could try this idea: graph clustering + graph pooling
+ 12
+  
