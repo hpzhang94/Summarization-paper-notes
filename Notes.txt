@@ -47,5 +47,9 @@
  *11. Unsupervised Aspect-Based Multi-Document Abstractive Summarization
      -cluster review senteces into aspect and then aggregate each cluster 
      -could try this idea: graph clustering + graph pooling
- 12
+     
+     
+ 12 Self-Attention Graph Pooling
+     - a more complex and efficient pooling method compared to avg and max. 
+     - readout function choice: max+ mean
   
