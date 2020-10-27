@@ -57,4 +57,5 @@
     - some useful sota paper: Exploiting Sentence Order in Document Alignment, 
     Multilevel Text Alignment with Cross-Document Attention, 
     Vecalign: Improved Sentence Alignment in Linear Time and Space
+    Exploiting Sentence Similarities for Better Alignments
   
