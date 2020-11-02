@@ -53,9 +53,25 @@
      - a more complex and efficient pooling method compared to avg and max. 
      - readout function choice: max+ mean
      
- 13 Use graph to align documents
+ *13 Use graph to align documents
     - some useful sota paper: Exploiting Sentence Order in Document Alignment, 
     Multilevel Text Alignment with Cross-Document Attention, 
     Vecalign: Improved Sentence Alignment in Linear Time and Space
     Exploiting Sentence Similarities for Better Alignments
+ 
+ 14. Opinion summarziation:
+      -Unsupervised Opinion Summarization with Noising and Denoising: self-supervised learning with  synthetic dataset and different noise
+      -MeanSum : A Neural Model for Unsupervised Multi-Document Abstractive Summarization: autoencoders for abstractive summarizaiton
+      -Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised
+ 15. Constrastive learning in Summarization:
+      -Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning
+      -DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization
+      -Contrastive Attention Mechanism for Abstractive Sentenc Summarization
+      
+ 16. SUMMPIP: UNSUPERVISED MULTI-DOCUMENT SUMMARIZATION WITH SENTENCE GRAPH COMPRESSION
+      - cluster and compress
+      -compression uses keyphrase and shortest path
+    
+    
+ 
   
