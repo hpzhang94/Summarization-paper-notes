@@ -71,6 +71,14 @@
  16. SUMMPIP: UNSUPERVISED MULTI-DOCUMENT SUMMARIZATION WITH SENTENCE GRAPH COMPRESSION
       - cluster and compress
       -compression uses keyphrase and shortest path
+  
+  17. ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks
+      - scientic paper summarization with citation
+      -dataset: CL-SciSumm, GCN Cited text spans
+  18. TALKSUMM: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks
+      -dataset
+      
+  19. LongSum, Laysum: two competition in EMNLP 2020 workshop.
     
     
  
