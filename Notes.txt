@@ -83,6 +83,8 @@
   20. A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents
       -provide dataset arix, pubmed
     
-    
+  21. A Neural Citation Count Prediction Model based on Peer Review Text
+      -review text for academic paper
+      -can think about with summarizaiton
  
   
