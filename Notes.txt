@@ -97,5 +97,11 @@
   24.25 Intrinsic Evaluation of Summarization Datasets
         Earlier isn’t always better: Subaspect analysis on corpus and system biases in summarization
           evaluating the summarization datasets
+          
+  26. A Repository of Corpora for Summarization
+        - source for different summarization datasets.
+        
+   27 SuperPAL: Supervised Proposition ALignment for Multi-Document Summarization and Derivative Sub-Task
+        -alignment for mds, think about it. may can do graph alignment
  
   
