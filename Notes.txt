@@ -86,5 +86,16 @@
   21. A Neural Citation Count Prediction Model based on Peer Review Text
       -review text for academic paper
       -can think about with summarizaiton
+      
+  22. MLSUM: The Multilingual Summarization Corpus
+      -a new mulitlingul corpus
+      -can try something new in multilingual cross language
+      
+  23. A Preliminary Exploration of GANs for Keyphrase Generation
+      -key phrase with GAN
+      
+  24.25 Intrinsic Evaluation of Summarization Datasets
+        Earlier isn’t always better: Subaspect analysis on corpus and system biases in summarization
+          evaluating the summarization datasets
  
   
